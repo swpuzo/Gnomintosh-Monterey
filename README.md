@@ -14,7 +14,7 @@ Gnomintosh Monterey is an customization suite for Linux. It transforms the GNOME
 <img width="1920" height="1080" alt="Black" src="https://github.com/user-attachments/assets/5db7140e-fbd4-40b1-a838-c64d0bfd065d" />
 
 ## How to install?
-Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < Gnomintosh_extensions.dconf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
+Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < Gnomintosh_extensions.conf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
 
 ## Credits
 * https://github.com/vinceliuice/MacTahoe-gtk-theme
