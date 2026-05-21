@@ -21,5 +21,5 @@ Install the extension from the "Extension" folder, download it. Then download th
 * https://github.com/vinceliuice/MacTahoe-icon-theme
 
 ## Authors
-* **Geoprostranstvenny**
+* **Swift**
 * **Tworence**
